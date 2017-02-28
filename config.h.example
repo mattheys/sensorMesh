@@ -1,3 +1,6 @@
-#define   MESH_PREFIX     "whateverYouLike"
-#define   MESH_PASSWORD   "somethingSneeky"
-#define   MESH_PORT       5555
+#define   MESH_PREFIX             "whateverYouLike"
+#define   MESH_PASSWORD           "somethingSneeky"
+#define   MESH_PORT               5555
+
+#define   MESH_INTERNET_AP        ""
+#define   MESH_INTERNET_PASSWORD  ""
